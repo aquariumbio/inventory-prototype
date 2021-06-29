@@ -1,5 +1,3 @@
-# inventory-prototype
+# Inventory prototype (React)
 
-This is an initial prototype for interface for a new inventory model.
-
-See also https://github.com/aquariumbio/inventory-app
+This is one of two prototypes for a new inventory app. The overall architecture is roughly correct, but the schema is less developed than https://github.com/aquariumbio/inventory-prototype-rails.
